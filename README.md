@@ -1,4 +1,4 @@
-# Django_JedGStumpf-
+# Django_JedGStumpf
 
 A Django framework website.
 

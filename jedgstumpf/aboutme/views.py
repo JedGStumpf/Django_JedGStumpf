@@ -10,8 +10,8 @@ def links(request):
     return render(request, 'aboutme/links.html', {'title': 'Links'})
 
 
-def resume(request):
-    return render(request, 'aboutme/resume.html', {'title': 'Resume'})
+def myblog(request):
+    return render(request, 'aboutme/myblog.html', {'title': 'MyBlog'})
 
 
 def achievements(request):
